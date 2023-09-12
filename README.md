@@ -51,7 +51,7 @@ NextJS, React, Prisma,Socket.io, Prisma, Tailwind, MySQL
 ## Cloning the repository
 
 ```bash
- git clone https://github.com/AntonioErdeljac/next13-discord-clone.git
+ git clone https://github.com/adityayaduvanshi/NexusConnect.git
 ```
 
 ## Install packages
